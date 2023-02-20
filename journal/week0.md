@@ -58,6 +58,18 @@ I recreated the Logical Diagram by following the video and referencing the compl
 ![Root MFA and Stronmaus](assets/Week-0-IAM-MFA.PNG)
 
 
+### Enforcing Stronger Password Requirements
+
+Edited the Password Policy to stronger requirments than what AWS requires by default.
+
+22 Characters, Uppercase, Lowercase, Numbers, Special Characters, Expiration of 365 days, 
+Password history of 12 for prevention of reuseing previous passwords, Users can reset their own password as needed.
+
+**Password Requirements:**
+
+![Password Requirements](assets/Week-0-Password-Requirements.PNG)
+
+
 ### Least Privilege
 
 Created multiple Groups for the different functions or services seen in the logical diagram.
