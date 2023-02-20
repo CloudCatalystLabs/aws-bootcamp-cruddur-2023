@@ -9,7 +9,7 @@ Received the error **operation requires additional permissions: public_repo**
 Utilized google to troubleshoot. Browsed to gitpodio integrations and edited
 the permissions to user:email read:user and public_repo.
 
-### add picture
+!.[Troubleshooting AWS CLI installation].(assets/Week-0-GitPod-Troubleshooting.png)
 
 ### Create Billing Alarm and Budgets
 
