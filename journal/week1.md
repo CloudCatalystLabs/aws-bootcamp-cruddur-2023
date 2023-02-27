@@ -36,6 +36,22 @@ Added volume mapping:
 
 ![Volume Mapping](assets/week-01-volume-mapping.PNG)
 
+## Career Session:
+
+Interested in the Analyst/Manager and Engineer groups.
+
+I am going to become a Cloud Engineer before moving on to a Cloud Security Engineer.
+
+I am a good fit for these roles because I have 5 years in IT and Cybersecurity positions. I have all 3 Associate level AWS certs, and many CompTIA certs including CySA+ and Security+. I need to learn how to transfer my security experience to the cloud, and am really interested in GRC. But, I want to learn how AWS really works for context into learning how to secure it.
+
+I will know:
+
+Python, Github, Linux, Terraform and Networking
+
+I will not get distracted by:
+
+Azure, GCP, any additional certifications, the TryHackMe platform (security) or Jenkins, Chef, Puppet etc.
+
 ## Homework Challenges:
 
 None
