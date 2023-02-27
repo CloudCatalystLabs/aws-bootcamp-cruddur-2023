@@ -12,6 +12,12 @@ Created Dockerfile in frontend-react-js:
 
 ![Dockerfile in frontend-react-js](assets/week-01-frontend-react-js-DF.PNG)
 
+## Notifications Page:
+
+Added the Notifictions page with addidional mocked up data:
+
+![Notification Corbin Dalls](assets/week-01-notification.PNG)
+
 ## Create a Docker Compose File in the root of project:
 
 Created Docker Compose File:
